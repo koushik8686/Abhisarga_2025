@@ -264,11 +264,11 @@ export default function AboutUs() {
       bgColor: "black",
     },
     {
-      name: "Pinnu Koushik",
+      name: "Venkatesh Naidu",
       description: ["Tech Team", "Co-Lead"],
       position: "Co-Lead",
-      image: "./assets/AboutUs/PinnuKoushik.webp",
-      linkedin: "https://www.linkedin.com/in/koushik-pinnu-ba0873297/",
+      image: "./assets/AboutUs/venkateshNaidu.webp",
+      linkedin: "https://www.linkedin.com/in/venkatesh-naidu-moyyi-9a740827a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       bgColor: "black",
     },
     {
